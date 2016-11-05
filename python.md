@@ -1,3 +1,13 @@
+notes：
+函数装饰器有什么作用（常考）
+
+装饰器本质上是一个Python函数，它可以让其他函数在不需要做任何代码变动的前提下增加额外功能，装饰器的返回值也是一个函数对象。它经常用于有切面需求的场景，比如：插入日志、性能测试、事务处理、缓存、权限校验等场景。有了装饰器，就可以抽离出大量与函数功能本身无关的雷同代码并继续重用。
+
+简述Python的作用域以及Python搜索变量的顺序
+
+Python作用域简单说就是一个变量的命名空间。代码中变量被赋值的位置，就决定了哪些范围的对象可以访问这个变量，这个范围就是变量的作用域。在Python中，只有模块（module），类（class）以及函数（def、lambda）才会引入新的作用域。Python的变量名解析机制也称为 LEGB 法则：本地作用域（Local）→当前作用域被嵌入的本地作用域（Enclosing locals）→全局/模块作用域（Global）→内置作用域（Built-in）
+
+
 [] MUST READ: https://github.com/taizilongxu/interview_python
 
 ##Table of Content
