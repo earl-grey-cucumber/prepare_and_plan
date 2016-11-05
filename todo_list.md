@@ -5,14 +5,16 @@
     * [ ] 2D dp, stock problem
 
 2. Python:
-    * [ ] knowledge
+    * [ ] python
 
 3. Behavior Question:
     * [ ] project in the resume 
 
 4. Design:
-    * [ ] knowledge
-
+    * [ ] ???
+    
+5. Side project:
+    * [ ] ???
 
 Good Blog to read:
 
