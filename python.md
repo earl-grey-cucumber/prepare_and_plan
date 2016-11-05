@@ -1,3 +1,5 @@
+[] MUST READ: https://github.com/taizilongxu/interview_python
+
 ##Table of Content
 ####[1.Strings ](#strings)
 ####[2.Lists ](#lists)
