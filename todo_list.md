@@ -2,9 +2,13 @@
   - 11/05/2016    
     - stock IV, stock cooldown, reconstruct itinerary
     - watch sys design vedio about monitor system and dropbox
-    - what is PIPE, IPC, SOCKET, message queue, md5
-
   
+  - 11/06/2016    
+    - course schedule and other graph problem
+    - hashtable
+    - what is PIPE, IPC, SOCKET, message queue, md5  
+      
+      
 1. Algorithm:
     * [ ] quick sort, merge sort, select sort
     * [ ] implement the hashtable 
