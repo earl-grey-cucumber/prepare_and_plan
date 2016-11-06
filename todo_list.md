@@ -1,5 +1,5 @@
-Record
-- 11/05/2016
+0. Rec
+- 11/05/2016    
   - stock IV, stock cooldown, reconstruct itinerary
   - watch sys design vedio about monitor system and dropbox
   - what is PIPE, IPC, SOCKET, message queue, md5
