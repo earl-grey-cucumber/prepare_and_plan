@@ -2,7 +2,7 @@
     * [ ] quick sort, merge sort, select sort
     * [ ] implement the hashtable 
     * [ ] summerize graph questions, understand euler path 
-    * [ ] 2D dp, stock problem
+    * [x] 2D dp, stock problem
 
 2. Python:
     * [ ] python
