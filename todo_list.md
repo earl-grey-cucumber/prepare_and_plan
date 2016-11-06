@@ -7,6 +7,7 @@
     - course schedule and other graph problem
     - hashtable
     - what is PIPE, IPC, SOCKET, message queue, md5  
+    - watch mapreduce vedio
       
       
 1. Algorithm:
