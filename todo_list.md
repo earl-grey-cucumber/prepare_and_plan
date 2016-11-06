@@ -8,6 +8,7 @@
     - hashtable
     - what is PIPE, IPC, SOCKET, message queue, md5  
     - watch mapreduce vedio
+    - 硅谷程序员进阶之路
       
       
 1. Algorithm:
