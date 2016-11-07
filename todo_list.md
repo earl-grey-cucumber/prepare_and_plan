@@ -11,6 +11,7 @@
   - 11/07/2016
     - what is PIPE, IPC, SOCKET, message queue, md5  
     - watch mapreduce vedio
+    - watch intro to python vedio
     - 硅谷程序员进阶之路
     - heap sort / implement heap
       
