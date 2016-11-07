@@ -1,4 +1,4 @@
-0. History
+0. History  
   - 11/05/2016    
     - stock IV, stock cooldown, reconstruct itinerary
     - watch sys design vedio about monitor system and dropbox
@@ -11,14 +11,10 @@
     - watch mapreduce vedio
     - 硅谷程序员进阶之路
       
-      
-1. Algorithm  
-2. Python  
-3. Behavior Question and experience  
-4. System Design  
-5. Side project  
+1. Things to cover:      
+Algorithm / Python / Behavior Question and experience / System Design / Side project  
 
-Good Blog to read:
+2. Good Blog to read:
 * 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
 * 我的面试总结: http://www.mitbbs.co.nz/article_t/JobHunting/32564237.html#top
 
