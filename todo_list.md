@@ -12,11 +12,11 @@
     - 硅谷程序员进阶之路
       
       
-1. Algorithm
-2. Python
-3. Behavior Question and experience
-4. System Design
-5. Side project
+1. Algorithm  
+2. Python  
+3. Behavior Question and experience  
+4. System Design  
+5. Side project  
 
 Good Blog to read:
 * 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
