@@ -7,6 +7,8 @@
     - course schedule and other graph problem
     - quick / merge / insertion / selection sort
     - hashtable
+    
+  - 11/07/2016
     - what is PIPE, IPC, SOCKET, message queue, md5  
     - watch mapreduce vedio
     - 硅谷程序员进阶之路
