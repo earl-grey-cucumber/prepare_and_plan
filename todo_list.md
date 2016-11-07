@@ -12,9 +12,9 @@
     - 硅谷程序员进阶之路
       
 1. Things to cover:      
-Algorithm / Python / Behavior Question and experience / System Design / Side project  
+  - Algorithm / Python / Behavior Question and experience / System Design / Side project  
 
 2. Good Blog to read:
-* 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
-* 我的面试总结: http://www.mitbbs.co.nz/article_t/JobHunting/32564237.html#top
+  - 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
+  - 我的面试总结: http://www.mitbbs.co.nz/article_t/JobHunting/32564237.html#top
 
