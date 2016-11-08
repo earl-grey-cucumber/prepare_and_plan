@@ -13,6 +13,8 @@
     - watch intro to python vedio
     - 硅谷程序员进阶之路
     - heap sort / implement heap
+    
+  - 11/08/20016
     - what is PIPE, IPC, SOCKET, message queue, md5  
       
 1. Things to cover:      
