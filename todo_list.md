@@ -15,6 +15,8 @@
     - heap sort / implement heap
     
   - 11/08/20016
+    - watch vedio for algorithm interview II III
+    - n-queents https://zhuanlan.zhihu.com/p/22846106
     - what is PIPE, IPC, SOCKET, message queue, md5  
       
 1. Things to cover:      
