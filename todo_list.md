@@ -25,7 +25,7 @@
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
-  - watch vedio for algorithm interview III
+  - watch vedio for [algorithm interview III](https://www.bittiger.io/classpage/jNy2v4F3qrzb26Pxb)
   - what is PIPE, IPC, SOCKET, message queue, md5  
 
 2. Good Blog to read:
