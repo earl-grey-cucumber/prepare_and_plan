@@ -25,4 +25,5 @@
 2. Good Blog to read:
   - 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
   - 我的面试总结: http://www.mitbbs.co.nz/article_t/JobHunting/32564237.html#top
+  - Design: https://www.evernote.com/shard/s576/sh/7e58b450-1abe-43a8-bf82-fbf07f1db13c/049802174415b418a2e65f75b744ab72
 
