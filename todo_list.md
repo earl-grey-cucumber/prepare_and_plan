@@ -31,10 +31,9 @@
 2. Good Blog to read:
   - 系统面试设计: http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
   - Design: https://www.evernote.com/shard/s576/sh/7e58b450-1abe-43a8-bf82-fbf07f1db13c/049802174415b418a2e65f75b744ab72
-  - https://www.infoq.com/presentations/uber-market-platform
-  - https://zhuanlan.zhihu.com/p/20178932?columnSlug=yangshenghu
-  - http://www.zhihu.com/question/36326119/answer/67061507
-  - https://www.google.com/search?q=Amazon%E7%9A%84dynamo&oq=Amazon%E7%9A%84dynamo&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+  - Scaling Uber's Real-time Market Platform https://www.infoq.com/presentations/uber-market-platform
+  - Read paper: GFS / Big table / Mapreduce / Dynamo DB
+
 
 
 
