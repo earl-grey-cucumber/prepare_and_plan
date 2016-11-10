@@ -22,6 +22,9 @@
     - [Scaling Uber's Real-time Market Platform](https://www.infoq.com/presentations/uber-market-platform)
     - [Mini Cassandra](https://www.bittiger.io/microproject/aEBxo399PMbnp3x2n)
     - Binary Index Tree
+    
+  - 11/10/2016
+    - Binary tree serialization: BFS DFS iterative-DFS
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
