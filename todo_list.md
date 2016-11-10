@@ -21,7 +21,7 @@
     - [5 solutions for n-queens](https://zhuanlan.zhihu.com/p/22846106)
     - [Scaling Uber's Real-time Market Platform](https://www.infoq.com/presentations/uber-market-platform)
     - [Mini Cassandra](https://www.bittiger.io/microproject/aEBxo399PMbnp3x2n)
-
+    - Binary Index Tree
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
