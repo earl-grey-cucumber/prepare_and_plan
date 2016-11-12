@@ -29,6 +29,7 @@
     
   - 11/11/2016
     - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week2
+    - Start a system with memcached mongodb lucene
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
@@ -39,7 +40,6 @@
   - [系统面试设计](http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/)
   - [Several Design problems](https://www.evernote.com/shard/s576/sh/7e58b450-1abe-43a8-bf82-fbf07f1db13c/049802174415b418a2e65f75b744ab72)
   - Read paper: GFS / Big table / Mapreduce / Dynamo DB
-  
   - http://lass.cs.umass.edu/~shenoy/courses/spring15/lectures.html
   - https://www.udacity.com/wiki/ud156-schedule
   - https://pdos.csail.mit.edu/6.824/schedule.html
