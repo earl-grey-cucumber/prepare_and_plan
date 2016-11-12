@@ -20,11 +20,15 @@
   - 11/09/2016
     - [5 solutions for n-queens](https://zhuanlan.zhihu.com/p/22846106)
     - [Scaling Uber's Real-time Market Platform](https://www.infoq.com/presentations/uber-market-platform)
-    - [Mini Cassandra](https://www.bittiger.io/microproject/aEBxo399PMbnp3x2n)
     - Binary Index Tree
     
   - 11/10/2016
     - Binary tree serialization: BFS DFS iterative-DFS
+    - Segment tree and binary index tree
+    - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week1
+    
+  - 11/11/2016
+    - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week2
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
@@ -38,7 +42,6 @@
   
   - http://lass.cs.umass.edu/~shenoy/courses/spring15/lectures.html
   - https://www.udacity.com/wiki/ud156-schedule
-  - https://www.coursera.org/learn/cloud-computing#syllabus
   - https://pdos.csail.mit.edu/6.824/schedule.html
 
 
