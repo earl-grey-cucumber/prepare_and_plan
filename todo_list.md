@@ -30,6 +30,8 @@
   - 11/11/2016
     - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week2
     - Start a system with memcached mongodb lucene
+  
+  t b c
       
 1. Things to cover:      
   - Algorithm / Python / Behavior Question and experience / System Design / Side project  
