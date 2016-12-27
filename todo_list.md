@@ -29,7 +29,6 @@
     
   - 11/11/2016
     - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week2
-    - Start a system with memcached mongodb lucene
   
   t b c
       
@@ -45,6 +44,8 @@
   - http://lass.cs.umass.edu/~shenoy/courses/spring15/lectures.html
   - https://www.udacity.com/wiki/ud156-schedule
   - https://pdos.csail.mit.edu/6.824/schedule.html
+  - http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html
+  - https://aws.amazon.com/elasticbeanstalk/
 
 
 
