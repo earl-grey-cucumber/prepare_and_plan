@@ -48,6 +48,7 @@
   - https://aws.amazon.com/elasticbeanstalk/
   - http://www.1point3acres.com/bbs/thread-191077-1-1.html
   - http://chen-tam.github.io/
+  - https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
 
 
 
