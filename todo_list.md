@@ -31,7 +31,7 @@
     - [Cloud computing](https://www.coursera.org/learn/cloud-computing#syllabus) Week2
   
   - 04/17/2017
-    - [Managing big data with MySQL](https://www.coursera.org/learn/analytics-mysql/home/welcome)
+    - [Managing big data with MySQL](https://www.coursera.org/learn/analytics-mysql/home/welcome)  
   t b c
       
 1. Things to cover:      
